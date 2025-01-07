@@ -1,0 +1,19 @@
+OOP Principles
+
+This reading introduces you to the OOP principles in more detail using some examples.
+
+The object oriented paradigm was introduced in the 1960s by Alan Kay. At the time, the
+ paradigm was not the best computing solution given the small scalability of software 
+ developed then. As the complexity of software and real-life applications improved, 
+ object oriented principles became a better solution. 
+
+You previously encountered the four main pillars of object oriented programming. 
+These are:  encapsulation, polymorphism, inheritance and abstraction. 
+Let's look at a few examples that demonstrate how these principles translate when using Python.
+
+Encapsulation
+The idea of encapsulation is to have methods and variables within the bounds of a given unit. In the case of Python, this unit is called a class. And the members of a class become locally bound to that class. These concepts are better understood with scope, such as global scope (which in simple terms is the files I am working with), and local scope (which refers to the method and variables that are 'local' to a class). Encapsulation thus helps in establishing these scopes to some extent. 
+
+For example, the Little Lemon company may have different departments such as inventory, marketing and accounts. And you may be required to deal with the data and operations for each of them separately. Classes and objects help in encapsulating and in turn restrict the different functionalities.
+
+Encapsulation is also used for hiding data and its internal representation. The term for this is information hiding.  Python has a way to deal with it, but it is better implemented in other programming languages such as Java and C++. Access modifiers represented by keywords such as public, private and protected are used for information hiding. The use of single and double underscores for this purpose in Python is a substitute for this practice. For example, let's examine an example of protected members in Python.
