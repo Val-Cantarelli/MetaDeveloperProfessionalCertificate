@@ -20,9 +20,20 @@ During each course, I completed micro-projects to reinforce the learning experie
 
 By the end of the program, I integrated all these concepts into a final project that consolidated my back-end development skills, covering everything from code versioning and database management to REST API creation and cloud deployment.
 
+## Repository Structure
 
-🚩 **Pending Update:** DevOps Solution with AWS  
-I expanded the original project by deploying it to the AWS cloud using services such as Lambda, RDS, S3, and CloudFront. The full solution can be found in this repository: [AWS Capstone Project](https://github.com/Val-Cantarelli/Meta-AWS-Capstone).
+- `Course1-Intro/` - HTML/CSS fundamentals and web development basics
+- `Course2_Python/` - Python programming fundamentals and advanced concepts
+- `Course3-VersionControl/` - Git, GitHub, and version control systems
+- `Course4-DB/` - Database management and SQL
+- `Course5-Django/` - Django framework and web application development
+- `Course6-API/` - API development and integration
+- `Course7-FullStack/` - Full-stack development concepts
+
+
+I expanded the original project by deploying it to the AWS cloud. The complete DevOps solution can be found in the repository:
+
+[![Cloud Migration](https://img.shields.io/badge/Cloud-Migration-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/Val-Cantarelli/Meta-AWS-Capstone)
 
 ## Author
 

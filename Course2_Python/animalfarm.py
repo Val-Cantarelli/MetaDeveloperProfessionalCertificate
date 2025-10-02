@@ -3,12 +3,12 @@ def d():
     def e():
         nonlocal animal
         animal = "giraffe"
-        print("Dentro do for aninhando: "+ animal)
+        print("Inside the nested function: " + animal)
     
-    print("Antes de chamar a função: " + animal)
+    print("Before calling the function: " + animal)
     e()
-    print("Depois do for aninhado: " + animal)
+    print("After the nested function: " + animal)
     
 animal = "Camel"
 d()
-print("Variavel global " + animal)
+print("Global variable: " + animal)
